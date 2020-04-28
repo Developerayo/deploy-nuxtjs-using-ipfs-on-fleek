@@ -1,7 +1,7 @@
 {
   "name": "deploy-nuxtjs-using-ipfs-on-fleek",
   "version": "1.0.0",
-  "description": "My glorious Nuxt.js project",
+  "description": "IPFS on Fleek",
   "author": "Shodipo Ayomide",
   "private": true,
   "scripts": {
