@@ -9,6 +9,13 @@
         Deploying NuxtJS using IPFS on Fleek
       </h2>
       <div class="links">
+                <a
+          href="https://fleek.co"
+          target="_blank"
+          class="button--grey"
+        >
+          Fleek
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a
           href="https://nuxtjs.org/"
           target="_blank"
