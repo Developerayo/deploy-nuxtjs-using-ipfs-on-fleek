@@ -10,6 +10,8 @@ $ yarn install
 $ yarn dev
 ```
 
+Deploy Preview: http://localhost:3000/
+
 ```
 $ yarn build
 ```
