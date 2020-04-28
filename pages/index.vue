@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        deploy-nuxtjs-using-ipfs-on-fleek
+        NuxtJS & <a href="https://fleek.co">Fleek.co</a>
       </h1>
       <h2 class="subtitle">
-        My glorious Nuxt.js project
+        Deploying NuxtJS using IPFS on Fleek
       </h2>
       <div class="links">
         <a
