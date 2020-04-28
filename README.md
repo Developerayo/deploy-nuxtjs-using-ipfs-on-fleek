@@ -1,22 +1,27 @@
-# deploy-nuxtjs-using-ipfs-on-fleek
+# Deploying A NuxtJS App Using IPFS On [Fleek](https://fleek.co)
 
-> My glorious Nuxt.js project
-
-## Build Setup
+## Instalation
 
 ```bash
-# install dependencies
 $ yarn install
+```
 
-# serve with hot reload at localhost:3000
+```
 $ yarn dev
+```
 
-# build for production and launch server
+```
 $ yarn build
-$ yarn start
+```
 
-# generate static project
+```
+$ yarn start
+```
+
+```
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org)
+
+For more detailed explanation about Fleek. checkout [Fleek.co](https://fleek.co)
